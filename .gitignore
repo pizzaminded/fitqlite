@@ -1,0 +1,4 @@
+.idea
+lib/fit-sdk
+lib/sqlite3
+build
